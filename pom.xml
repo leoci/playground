@@ -8,6 +8,6 @@
   <url>http://maven.apache.org</url>
  
   <modules>
-    <module>playground</module>
+    <module>common</module>
   </modules>
 </project>
